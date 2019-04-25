@@ -25,7 +25,7 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Descriptive and Substantive Representation of Poor Citizens in Switzerland</strong><br />
       <em>Swiss Political Science Review</em>, 2015, 21(2): 254-260.<br />
       Co-authored with Anouk Lloren and Jan Rosset.<br />
-      [<a href="http://onlinelibrary.wiley.com/doi/10.1111/spsr.12159/abstract" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733015" target="_blank">Preprint PDF</a>]</p>
+      [<a href="https://doi.org/10.1111/spsr.12159" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733015" target="_blank">Preprint PDF</a>]</p>
 
       <h2 class="post-title">Articles Under Review</h2>
 
