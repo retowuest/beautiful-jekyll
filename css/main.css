@@ -367,6 +367,27 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+#main {
+  width: 62.0%;
+}
+#sidebar {
+  border: 1px solid #eee;
+  width: 32.0%;
+}
+#profile {
+  text-align: center;
+  margin: 30px;
+}
+#profile img {
+  border: 1px solid #eee;
+  vertical-align: middle;
+}
+.post-left {
+  float: left;
+}
+.post-right {
+  float: right;
+}
 .post-image {
   float: right;
   height: 192px;
