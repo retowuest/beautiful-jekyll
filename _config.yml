@@ -19,6 +19,9 @@ title: Reto Wüest
 # Short description of your site
 description: Political Scientist
 
+# Have a separate dedicated page for the blog posts
+paginate_path: "/blog/page:num/"
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
