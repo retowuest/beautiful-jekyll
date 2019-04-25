@@ -16,8 +16,7 @@ subtitle: Current and previous courses
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2019.</p>
 
       <h2 class="post-title">Previous Courses</h2>
-
-      <p><strong>Methods II: Quantitative Methods Tutorial</strong><br />
+      <p><strong><a href="http://www.macis.gess.ethz.ch/education/lectures.html">Methods II: Quantitative Methods Tutorial</a></strong><br />
       ETH Zurich, Fall 2018, MA class.</p>
 
       <p><strong><a href="http://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
