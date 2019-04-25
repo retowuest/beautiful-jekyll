@@ -32,19 +32,22 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Descriptive Misrepresentation by Social Class: Do Voter Preferences Matter?</strong><br />
       Co-authored with Jonas Pontusson.</p>
 
-      <h2 class="post-title">Work in Progress</h2>
+      <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
+      Co-authored with Philipp Broniecki and Lucas Leemann.</p>
 
-      <p><strong>Technocracy or Democracy? European Citizens' Perceptions of Expert Rule</strong><br />
-      Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
-
-      <p><strong>Do Parties Dislike Working-Class Candidates?</strong><br />
-      Co-authored with Jonas Pontusson.</p>
+      <h2 class="post-title">Working Papers</h2>
 
       <p><strong>The Representation of Social Classes in European Parliaments</strong><br />
       Co-authored with Jonas Pontusson.</p>
 
-      <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
-      Co-authored with Philipp Broniecki and Lucas Leemann.</p>
+      <p><strong>Do Parties Dislike Working-Class Candidates?</strong><br />
+      Co-authored with Jonas Pontusson.</p>
+
+      <p><strong>Technocracy or Democracy? European Citizens' Perceptions of Expert Rule</strong><br />
+      Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
+
+      <p><strong>Are Poor People Less Likely to Run for Political Office?</strong><br />
+      Co-authored with Pirmin Bundi.</p>
 
       <p><strong>Legislator Income and Voting Behavior</strong><br />
       Co-authored with Jan Rosset.<br />
@@ -62,10 +65,10 @@ subtitle: Published articles, articles under review, work in progress
       Co-authored with Simon Hug.<br />
       <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
 
-      <h2 class="post-title">Book Project</h2>
+      <h2 class="post-title">Work in Progress</h2>
 
-      <p><strong>Media Driven Accountability: The Role of Mass Media for the Monitoring of Governance</strong><br />
-      Co-authored with Michael Amsler, Chris Ewert, Jofre Rocabert, Michael Strebel, and Bruno Wüest</p>
+      <p><strong>Alike think Alike? The Effect of Shared Class Background on Policy Preference Congruence Between Citizens and Legislators</strong><br />
+      Co-authored with Luzia Helfer and Frédéric Varone</p>
     </div>
 
   </article>
