@@ -12,20 +12,20 @@ subtitle: Current and previous courses
     <div class="post-entry-container">
       <h2 class="post-title">Current Courses</h2>
 
-      <p><strong><a href="http://retowuest.net/recsm-2019/">Machine Learning for Social Sciences</a></strong><br />
+      <p><strong><a href="https://retowuest.net/recsm-2019/">Machine Learning for Social Sciences</a></strong><br />
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2019.</p>
 
       <h2 class="post-title">Previous Courses</h2>
-      <p><strong><a href="http://www.macis.gess.ethz.ch/education/lectures.html">Methods II: Quantitative Methods Tutorial</a></strong><br />
+      <p><strong><a href="https://www.macis.gess.ethz.ch/education/lectures.html">Methods II: Quantitative Methods Tutorial</a></strong><br />
       ETH Zurich, Fall 2018, MA class.</p>
 
-      <p><strong><a href="http://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
+      <p><strong><a href="https://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
 
-      <p><strong><a href="http://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />
+      <p><strong><a href="https://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />
       University of Geneva, Spring 2018, Short course for PhD students and faculty members.</p>
 
-      <p><strong><a href="http://retowuest.github.io/j2p216/">International Cooperation and Conflict</a></strong><br />
+      <p><strong><a href="https://retowuest.github.io/j2p216/">International Cooperation and Conflict</a></strong><br />
       University of Geneva, Spring 2016, BA class.</p>
 
       <p><strong>Empirical Research Methods</strong><br />
