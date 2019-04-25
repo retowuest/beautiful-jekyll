@@ -17,7 +17,7 @@ subtitle: Current and previous courses
 
       <h2 class="post-title">Previous Courses</h2>
 
-      <p><strong>Methods II: Quantitative Methods Tutorial</a></strong><br />
+      <p><strong>Methods II: Quantitative Methods Tutorial</strong><br />
       ETH Zurich, Fall 2018, MA class.</p>
 
       <p><strong><a href="http://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
