@@ -221,7 +221,7 @@ img {
   position: relative;
 }
 .navbar-custom .nav .navlinks-parent:after {
-  content: " \25BC";
+  content: "\25BC";
 }
 .navbar-custom .nav .navlinks-children {
   width: 100%;
