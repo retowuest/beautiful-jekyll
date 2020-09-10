@@ -48,14 +48,14 @@ avatar: "/img/uib.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#4EA0B7"
-navbar-text-col: "#404040"
+navbar-text-col: "#333333"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#CF3C3A"
 hover-col: "#789A5B"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#333333"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
