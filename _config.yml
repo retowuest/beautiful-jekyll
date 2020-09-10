@@ -47,7 +47,7 @@ avatar: "/img/uib.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ADD8E6"
+navbar-col: "#4EA0B7"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -164,7 +164,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Zurich"
+timezone: "Europe/Oslo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
