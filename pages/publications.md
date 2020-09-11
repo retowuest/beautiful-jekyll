@@ -37,16 +37,15 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Descriptive Misrepresentation by Social Class: Do Voter Preferences Matter?"</strong><br />
       (with Jonas Pontusson).</p>
 
-      <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
-      Co-authored with Philipp Broniecki and Lucas Leemann.</p>
-
       <h2 class="post-title">Working Papers</h2>
 
-      <p><strong>The Representation of Social Classes in European Parliaments</strong><br />
-      Co-authored with Jonas Pontusson.</p>
+      <p><strong>"The Representation of Social Classes in European Parliaments"</strong><br />
+      (with Jonas Pontusson).<br />
+      [<a href="/papers/wueest-pontusson-rep-classes-2018.pdf" target="_blank">Article</a>]</p>
 
-      <p><strong>Do Parties Dislike Working-Class Candidates?</strong><br />
-      Co-authored with Jonas Pontusson.</p>
+      <p><strong>"Do Parties Dislike Working-Class Candidates?"</strong><br />
+      (with Jonas Pontusson).<br />
+      [<a href="/papers/wueest-uneqdem-2020.pdf" target="_blank">Article</a>]</p>
 
       <p><strong>Technocracy or Democracy? European Citizens' Perceptions of Expert Rule</strong><br />
       Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
