@@ -17,10 +17,10 @@ subtitle: Published articles, articles under review, work in progress
       <em>Journal of Politics</em>, forthcoming.<br />
       [Publisher link] [Appendix] [Replication materials] [R package]</p>
 
-      <p><strong><a href="/papers/lloren-wueest-wep-2016.pdf">"Are Opinion Leaders Better Represented?"</a></strong><br />
+      <p><strong>"Are Opinion Leaders Better Represented?"</strong><br />
       (with Anouk Lloren),<br />
       <em>West European Politics</em>, 2016, 39(4): 800-834.<br />
-      [<a href="https://doi.org/10.1080/01402382.2015.1125200" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733045" target="_blank">Preprint PDF</a>]</p>
+      [<a href="/papers/lloren-wueest-wep-2016.pdf" target="_blank">Article</a>] [<a href="https://doi.org/10.1080/01402382.2015.1125200" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733045" target="_blank">Preprint PDF</a>]</p>
 
       <p><strong>"Parliamentary Voting Procedures in Comparison"</strong><br />
       (with Simon Hug and Simone Wegmann),<br />
