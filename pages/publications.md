@@ -12,7 +12,12 @@ subtitle: Published articles, articles under review, work in progress
     <div class="post-entry-container">
       <h2 class="post-title">Published Articles</h2>
 
-      <p><strong>"Are Opinion Leaders Better Represented?"</strong><br />
+      <p><strong>"Improved Multilevel Regression with Post-Stratification Through Machine Learning (autoMrP)"</strong><br />
+      (with Philipp Broniecki and Lucas Leemann),<br />
+      <em>Journal of Politics</em>, forthcoming.<br />
+      [Publisher link] [Appendix] [Replication materials] [R package]</p>
+
+      <p><strong><a href="/papers/lloren-wueest-wep-2016.pdf">"Are Opinion Leaders Better Represented?"</a></strong><br />
       (with Anouk Lloren),<br />
       <em>West European Politics</em>, 2016, 39(4): 800-834.<br />
       [<a href="https://doi.org/10.1080/01402382.2015.1125200" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733045" target="_blank">Preprint PDF</a>]</p>
@@ -22,15 +27,15 @@ subtitle: Published articles, articles under review, work in progress
       <em>West European Politics</em>, 2015, 38(5): 940-968.<br />
       [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2321421" target="_blank">Preprint PDF</a>] [<a href="replication/replication-materials-pvpic.zip" target="_blank">Replication materials</a>]</p>
 
-      <p><strong>Descriptive and Substantive Representation of Poor Citizens in Switzerland</strong><br />
+      <p><strong>"Descriptive and Substantive Representation of Poor Citizens in Switzerland"</strong><br />
+      (with Anouk Lloren and Jan Rosset),<br />
       <em>Swiss Political Science Review</em>, 2015, 21(2): 254-260.<br />
-      Co-authored with Anouk Lloren and Jan Rosset.<br />
       [<a href="https://doi.org/10.1111/spsr.12159" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2733015" target="_blank">Preprint PDF</a>]</p>
 
       <h2 class="post-title">Articles Under Review</h2>
 
-      <p><strong>Descriptive Misrepresentation by Social Class: Do Voter Preferences Matter?</strong><br />
-      Co-authored with Jonas Pontusson.</p>
+      <p><strong>"Descriptive Misrepresentation by Social Class: Do Voter Preferences Matter?"</strong><br />
+      (with Jonas Pontusson).</p>
 
       <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
       Co-authored with Philipp Broniecki and Lucas Leemann.</p>
