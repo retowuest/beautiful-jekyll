@@ -49,7 +49,7 @@ avatar: "/img/uib.png"
 
 navbar-col: "#4EA0B7"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#EAE6E2"
+navbar-children-col: "#D5D5D5"
 page-col: "#FFFFFF"
 link-col: "#CF3C3A"
 hover-col: "#0075AF"
