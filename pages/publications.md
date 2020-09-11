@@ -15,7 +15,7 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Improved Multilevel Regression with Post-Stratification Through Machine Learning (autoMrP)"</strong><br />
       (with Philipp Broniecki and Lucas Leemann),<br />
       <em>Journal of Politics</em>, forthcoming.<br />
-      [Publisher link] [Appendix] [Replication materials] [R package]</p>
+      [Article] [Appendix] [Replication materials] [R package] [Publisher link]</p>
 
       <p><strong>"Are Opinion Leaders Better Represented?"</strong><br />
       (with Anouk Lloren),<br />
@@ -25,7 +25,7 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Parliamentary Voting Procedures in Comparison"</strong><br />
       (with Simon Hug and Simone Wegmann),<br />
       <em>West European Politics</em>, 2015, 38(5): 940-968.<br />
-      [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher link</a>] [<a href="https://ssrn.com/abstract=2321421" target="_blank">Preprint PDF</a>] [<a href="replication/replication-materials-pvpic.zip" target="_blank">Replication materials</a>]</p>
+      [<a href="/papers/hug-etal-wep-2015.pdf" target="_blank">Article</a>] [<a href="replication/hug-etal-wep-2015-rep.zip" target="_blank">Replication materials</a>] [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher link</a>]</p>
 
       <p><strong>"Descriptive and Substantive Representation of Poor Citizens in Switzerland"</strong><br />
       (with Anouk Lloren and Jan Rosset),<br />
