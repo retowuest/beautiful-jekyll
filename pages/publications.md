@@ -46,8 +46,8 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Do Parties Dislike Working-Class Candidates?"</strong><br />
       [<a href="/papers/wueest-uneqdem-2020.pdf" target="_blank">Working Paper</a>]</p>
 
-      <p><strong>Technocracy or Democracy? European Citizens' Perceptions of Expert Rule</strong><br />
-      Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
+      <p><strong>"Technocracy or Democracy? European Citizens' Perceptions of Expert Rule"</strong><br />
+      (with Tina Freyburg, Ivo Krizic, and Sandra Lavenex).</p>
 
       <p><strong>Are Poor People Less Likely to Run for Political Office?</strong><br />
       Co-authored with Pirmin Bundi.</p>
