@@ -80,7 +80,7 @@ subtitle: Published articles, articles under review, work in progress
 
       <p><strong>"Ideological Positions of Party Switchers"</strong><br />
       (with Simon Hug).<br />
-      <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
+      [<a href="/papers/hug-wueest-party-switchers-2012.pdf" target="_blank">Working Paper</a>]</p>
     </div>
 
   </article>
