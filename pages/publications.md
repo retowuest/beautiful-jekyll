@@ -84,7 +84,7 @@ subtitle: Published articles, articles under review, work in progress
 
       <h2 class="post-title">In Progress</h2>
 
-      <p><strong>"Priors for Bridging: A Dynamic Scaling Model for Comparable Preference Estimates across Legislative Chambers and over Time"</strong><br />
+      <p><strong>"Priors for Bridging: A Dynamic Scaling Model for Comparable Preference Estimates Across Legislative Chambers and Over Time"</strong><br />
       (with Philipp Broniecki).</p>
     </div>
 

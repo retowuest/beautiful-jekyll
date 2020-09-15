@@ -16,11 +16,12 @@ subtitle: Current and previous courses
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2019.</p>
 
       <h2 class="post-title">Previous Courses</h2>
+      <p><strong>"Machine Learning for Social Sciences"</strong><br />
+      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018, 2019.<br />
+      [<a href="https://retowuest.net/recsm-2018/" target="_blank">Course website 2018</a>] [<a href="https://retowuest.net/recsm-2019/" target="_blank">Course website 2019</a>]</p>
+
       <p><strong><a href="http://www.macis.gess.ethz.ch/education/lectures.html">Methods II: Quantitative Methods Tutorial</a></strong><br />
       ETH Zurich, MA class, Fall 2018.</p>
-
-      <p><strong><a href="https://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
-      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
 
       <p><strong><a href="https://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />
       University of Geneva, Short course for PhD students and faculty members, Spring 2018.</p>
