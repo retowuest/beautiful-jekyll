@@ -39,6 +39,9 @@ subtitle: Published articles, articles under review, work in progress
 
       <h2 class="post-title">Working Papers</h2>
 
+      <p><strong>"Mapping the Policy Space of Public Stakeholder Consultations: Evidence from the European Union"</strong><br />
+      (with Adriana Bunea).</p>
+
       <p><strong>"The Representation of Social Classes in European Parliaments"</strong><br />
       (with Jonas Pontusson).<br />
       [<a href="/papers/wueest-pontusson-rep-classes-2018.pdf" target="_blank">Working Paper</a>]</p>
