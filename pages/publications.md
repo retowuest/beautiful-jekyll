@@ -76,7 +76,7 @@ subtitle: Published articles, articles under review, work in progress
 
       <p><strong>"Who Represents the Poor? Evidence from Swiss Direct Democracy"</strong><br />
       (with Anouk Lloren).<br />
-      <a href="https://ssrn.com/abstract=2321442" target="_blank">[Working paper PDF]</a></p>
+      [<a href="/papers/wueest-lloren-uneqdem-2019.pdf" target="_blank">Working Paper</a>]</p>
 
       <p><strong>"Ideological Positions of Party Switchers"</strong><br />
       (with Simon Hug).<br />
