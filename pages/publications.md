@@ -66,9 +66,9 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Technocracy or Democracy? European Citizens' Perceptions of Expert Rule"</strong><br />
       (with Tina Freyburg, Ivo Krizic, and Sandra Lavenex).</p>
 
-      <p><strong>"Legislator Income and Voting Behavior"</strong><br />
+      <p><strong>"Legislator Income, Policy Attitudes, and Voting Behavior"</strong><br />
       (with Jan Rosset).<br />
-      <a href="https://ssrn.com/abstract=3077584" target="_blank">[Working paper PDF]</a></p>
+      [<a href="/papers/wueest-rosset-leg-income-2019.pdf" target="_blank">Working Paper</a>]</p>
 
       <p><strong>"Party Pressure in Roll Call Votes"</strong><br />
       (with Simon Hug).<br />
