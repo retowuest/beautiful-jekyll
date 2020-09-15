@@ -81,6 +81,11 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Ideological Positions of Party Switchers"</strong><br />
       (with Simon Hug).<br />
       [<a href="/papers/hug-wueest-party-switchers-2012.pdf" target="_blank">Working Paper</a>]</p>
+
+      <h2 class="post-title">In Progress</h2>
+
+      <p><strong>"Priors for Bridging: A Dynamic Scaling Model for Comparable Preference Estimates across Legislative Chambers and over Time"</strong><br />
+      (with Philipp Broniecki).</p>
     </div>
 
   </article>
