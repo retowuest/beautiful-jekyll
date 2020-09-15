@@ -12,8 +12,8 @@ subtitle: Current and previous courses
     <div class="post-entry-container">
       <h2 class="post-title">Current Courses</h2>
 
-      <p><strong><a href="https://retowuest.net/recsm-2019/">Machine Learning for Social Sciences</a></strong><br />
-      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2019.</p>
+      <p><strong>"Introduction to R"</strong><br />
+      University of Bergen, MA class, Fall 2020.</p>
 
       <h2 class="post-title">Previous Courses</h2>
       <p><strong>"Machine Learning for Social Sciences"</strong><br />
