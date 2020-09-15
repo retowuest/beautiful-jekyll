@@ -49,29 +49,29 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Technocracy or Democracy? European Citizens' Perceptions of Expert Rule"</strong><br />
       (with Tina Freyburg, Ivo Krizic, and Sandra Lavenex).</p>
 
-      <p><strong>Are Poor People Less Likely to Run for Political Office?</strong><br />
-      Co-authored with Pirmin Bundi.</p>
+      <p><strong>"Are Poor People Less Likely to Run for Political Office?"</strong><br />
+      (with Pirmin Bundi).</p>
 
-      <p><strong>Legislator Income and Voting Behavior</strong><br />
-      Co-authored with Jan Rosset.<br />
+      <p><strong>"Legislator Income and Voting Behavior"</strong><br />
+      (with Jan Rosset).<br />
       <a href="https://ssrn.com/abstract=3077584" target="_blank">[Working paper PDF]</a></p>
 
-      <p><strong>Party Pressure in Roll Call Votes</strong><br />
-      Co-authored with Simon Hug.<br />
+      <p><strong>"Party Pressure in Roll Call Votes"</strong><br />
+      (with Simon Hug).<br />
       <a href="https://ssrn.com/abstract=2453305" target="_blank">[Working paper PDF]</a></p>
 
-      <p><strong>Who Represents the Poor? Evidence from Swiss Direct Democracy</strong><br />
-      Co-authored with Anouk Lloren.<br />
+      <p><strong>"Who Represents the Poor? Evidence from Swiss Direct Democracy"</strong><br />
+      (with Anouk Lloren).<br />
       <a href="https://ssrn.com/abstract=2321442" target="_blank">[Working paper PDF]</a></p>
 
-      <p><strong>Ideological Positions of Party Switchers</strong><br />
-      Co-authored with Simon Hug.<br />
+      <p><strong>"Ideological Positions of Party Switchers"</strong><br />
+      (with Simon Hug).<br />
       <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
 
       <h2 class="post-title">Work in Progress</h2>
 
-      <p><strong>Alike think Alike? The Effect of Shared Class Background on Policy Preference Congruence Between Citizens and Legislators</strong><br />
-      Co-authored with Luzia Helfer and Frédéric Varone</p>
+      <p><strong>"Alike think Alike? The Effect of Shared Class Background on Policy Preference Congruence Between Citizens and Legislators"</strong><br />
+      (with Luzia Helfer and Frédéric Varone)</p>
     </div>
 
   </article>
