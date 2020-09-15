@@ -82,7 +82,7 @@ subtitle: Published articles, articles under review, work in progress
       (with Simon Hug).<br />
       [<a href="/papers/hug-wueest-party-switchers-2012.pdf" target="_blank">Working Paper</a>]</p>
 
-      <h2 class="post-title">In Progress</h2>
+      <h2 class="post-title">Work in Progress</h2>
 
       <p><strong>"Priors for Bridging: A Dynamic Scaling Model for Comparable Preference Estimates Across Legislative Chambers and Over Time"</strong><br />
       (with Philipp Broniecki).</p>
