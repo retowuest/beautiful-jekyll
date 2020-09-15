@@ -50,6 +50,10 @@ subtitle: Published articles, articles under review, work in progress
       (with Pirmin Bundi).<br />
       [<a href="/papers/bundi-wueest-run-office-2019.pdf" target="_blank">Working Paper</a>]</p>
 
+      <p><strong>"Alike think Alike? The Effect of Shared Class Background on Policy Preference Congruence Between Citizens and Legislators"</strong><br />
+      (with Luzia Helfer and Frédéric Varone)<br />
+      [<a href="/papers/wueest-etal-opinion-congr-2019.pdf" target="_blank">Working Paper</a>]</p>
+
       <p><strong>"Technocracy or Democracy? European Citizens' Perceptions of Expert Rule"</strong><br />
       (with Tina Freyburg, Ivo Krizic, and Sandra Lavenex).</p>
 
@@ -68,11 +72,6 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>"Ideological Positions of Party Switchers"</strong><br />
       (with Simon Hug).<br />
       <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
-
-      <h2 class="post-title">Work in Progress</h2>
-
-      <p><strong>"Alike think Alike? The Effect of Shared Class Background on Policy Preference Congruence Between Citizens and Legislators"</strong><br />
-      (with Luzia Helfer and Frédéric Varone)</p>
     </div>
 
   </article>
