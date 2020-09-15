@@ -25,7 +25,7 @@ subtitle: Current and previous courses
 
       <p><strong>"Introduction to Machine Learning"</strong><br />
       University of Geneva, Short course for PhD students and faculty members, Spring 2018.<br />
-      [<a href="https://retowuest.github.io/ml2018/" target="_blank">Course website 2018</a>]</p>
+      [<a href="https://retowuest.github.io/ml2018/" target="_blank">Course website</a>]</p>
 
       <p><strong><a href="https://retowuest.github.io/j2p216/">International Cooperation and Conflict</a></strong><br />
       University of Geneva, BA class, Spring 2016.</p>
