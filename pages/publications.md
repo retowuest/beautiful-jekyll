@@ -39,7 +39,13 @@ subtitle: Published articles, articles under review, work in progress
 
       <h2 class="post-title">Working Papers</h2>
 
+      <p><strong>"autoMrP: Multilevel Models and Post-Stratification (MrP) Combined with Machine Learning in R"</strong><br />
+      (with Philipp Broniecki and Lucas Leemann).</p>
+
       <p><strong>"Mapping the Policy Space of Public Stakeholder Consultations: Evidence from the European Union"</strong><br />
+      (with Adriana Bunea).</p>
+
+      <p><strong>"Delivering the Promised Democratic Goods: When and How Do EU Stakeholder Consultations Help the European Commission Build a Representative Mandate?"</strong><br />
       (with Adriana Bunea).</p>
 
       <p><strong>"The Representation of Social Classes in European Parliaments"</strong><br />
