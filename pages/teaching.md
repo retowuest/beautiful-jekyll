@@ -32,8 +32,8 @@ subtitle: Current and previous courses
       [<a href="https://retowuest.github.io/j2p216/" target="_blank">Course website</a>]</p>
 
       <p><strong>Empirical Research Methods</strong><br />
-      (co-taught with Fritz Sager and Christine Zollinger [2010] / Eva Thomann [2011, 2012]),<br />
-      University of Bern, MA class, Spring 2010, Spring 2011, Spring 2012.</p>
+      (co-taught with Fritz Sager and Christine Zollinger [2010] or Eva Thomann [2011, 2012]),<br />
+      University of Bern, MA class, Spring 2010, 2011, 2012.</p>
 
       <p><strong>Introduction to Statistics with Stata</strong><br />
       University of Bern, Short course for Executive MPA, 2010.</p>
