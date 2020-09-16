@@ -13,7 +13,7 @@ subtitle: Current and previous courses
       <h2 class="post-title">Current Courses</h2>
 
       <p><strong>Introduction to R</strong><br />
-      University of Bergen, MA class, Fall 2020.</p>
+      University of Bergen, Short course for MA students, Fall 2020.</p>
 
       <h2 class="post-title">Previous Courses</h2>
       <p><strong>Machine Learning for Social Sciences</strong><br />
@@ -32,16 +32,8 @@ subtitle: Current and previous courses
       [<a href="https://retowuest.github.io/j2p216/" target="_blank">Course website</a>]</p>
 
       <p><strong>Empirical Research Methods</strong><br />
-      (co-taught with Fritz Sager and Eva Thomann),<br />
-      University of Bern, MA class, Spring 2012.</p>
-
-      <p><strong>Empirical Research Methods</strong><br />
-      (co-taught with Fritz Sager and Eva Thomann),<br />
-      University of Bern, MA class, Spring 2011.</p>
-
-      <p><strong>Empirical Research Methods</strong><br />
-      (co-taught with Fritz Sager and Christine Zollinger),<br />
-      University of Bern, MA class, Spring 2010.</p>
+      (co-taught with Fritz Sager and Christine Zollinger [2010] / Eva Thomann [2011, 2012]),<br />
+      University of Bern, MA class, Spring 2010, Spring 2011, Spring 2012.</p>
 
       <p><strong>Introduction to Statistics with Stata</strong><br />
       University of Bern, Short course for Executive MPA, 2010.</p>
