@@ -20,6 +20,10 @@ subtitle: Current and previous courses
       University of Bergen, Short course for MA students, Fall 2020.</p>
 
       <h2 class="post-title">Previous Courses</h2>
+
+      <p><strong>Multilevel/Hierarchical Models</strong><br />
+      (co-taught with Simon Hug),<br />
+      University of Geneva, Short course in the CUSO PhD program, Fall 2019.</p>
       
       <p><strong>Machine Learning for Social Sciences</strong><br />
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018, 2019.<br />
