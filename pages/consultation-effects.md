@@ -12,7 +12,7 @@ subtitle: Research program funded by the European Research Council
     <div class="post-entry-container">
       <h2 class="post-title">The Research Project</h2>
 
-      <p>Since September 2019, I am working as a postdoctoral researcher on the research project "Consultation Effects: Effects of Stakeholder Consultations on the Inputs, Processes and Outcomes of Executive Policymaking," directed by Andrea Bunea and funded by the European Research Council (ERC).</p>
+      <p>Since September 2019, I am working as a postdoctoral researcher on the research project "Consultation Effects: Effects of Stakeholder Consultations on the Inputs, Processes and Outcomes of Executive Policymaking," directed by Adriana Bunea and funded by the European Research Council (ERC).</p>
 
       <h2 class="post-title">Outputs</h2>
 
